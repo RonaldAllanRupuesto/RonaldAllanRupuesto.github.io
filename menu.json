@@ -1,0 +1,40 @@
+{
+  "food":[
+          {
+            "name": "Lumpia",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price": "Red",
+            "img_src": "./images/lumpia.webp"
+          },
+          {
+            "name": "Adobong Baboy",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price": "Red",
+            "img_src": "./images/adobo-baboy.avif"
+          },
+          {
+            "name": "Adobong Manok",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price": "Red",
+            "img_src": "./images/adobo-manok.webp"
+          },
+          {
+            "name": "Pancit",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price": "Red",
+            "img_src": "./images/pancit.jpg"
+          },
+          {
+            "name": "Boiled Eggs",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price": "Red",
+            "img_src": "./images/boiled-eggs.jpg"
+          },
+          {
+            "name": "Tempura",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price": "Red",
+            "img_src": "./images/tempura.jpg"
+          }
+         ]
+}

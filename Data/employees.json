@@ -1,0 +1,183 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Daniel Smith \"Smitty\"",
+      "role": "Owner",
+      "department": "",
+      "reports_to": "",
+      "image": "",
+      "email":"dsmith@prosolutiongroup.com"
+    },
+    {
+      "id": 2,
+      "name": "April Canolo",
+      "role": "Front End Financials",
+      "department": "Finance",
+      "reports_to": "Heaven Canolo (VA)",
+      "image": "userphoto_2.jpg",
+      "email":"acanolo@prosolutiongroup.com"
+    },
+    {
+      "id": 3,
+      "name": "Kevin Kerman",
+      "role": "Manager of CRM Developers",
+      "department": "",
+      "reports_to": "Daniel Smith",
+      "image": "",
+      "email":"kkerman@prosolutiongroup.com"
+    },
+    {
+      "id": 4,
+      "name": "Behzad Alam (VA)",
+      "role": "CRM developer Assistant",
+      "department": "",
+      "reports_to": "Kevin Kerman",
+      "image": "",
+      "email":"balam@prosolutiongroup.com"
+    },
+    {
+      "id": 5,
+      "name": "Juan Martinez",
+      "role": "Manager of Field Adjustment Specialist",
+      "department": "Field Operations",
+      "reports_to": "Daniel Smith",
+      "image": "juan-martinez.jpeg",
+      "email":"jmartinez@prosolutiongroup.com"
+    },
+    {
+      "id": 6,
+      "name": "Brian Lopez",
+      "role": "Field Adjustment Specialists",
+      "department": "Field Operations",
+      "reports_to": "Juan Martinez",
+      "image": "",
+      "email":"brianl@prosolutiongroup.com"
+    },
+    {
+      "id": 7,
+      "name": "Cayleig Cooper",
+      "role": "Field Adjustment Specialists",
+      "department": "Field Operations",
+      "reports_to": "Juan Martinez",
+      "image": "",
+      "email":"ccooper@prosolutiongroup.com"
+    },
+    {
+      "id": 8,
+      "name": "Pablo Bonilla",
+      "role": "Field Adjustment Specialists",
+      "department": "Field Operations",
+      "reports_to": "Juan Martinez",
+      "image": "",
+      "email":"pbonilla@prosolutiongroup.com"
+    },
+    {
+      "id": 9,
+      "name": "Donna Harris",
+      "role": "Field Adjustment Specialists",
+      "department": "Field Operations",
+      "reports_to": "Juan Martinez",
+      "image": "donna-harris.jpeg",
+      "email":"dharris@prosolutiongroup.com"
+    },
+    {
+      "id": 10,
+      "name": "Oscar Manriquez",
+      "role": "Field Adjustment Specialists",
+      "department": "Field Operations",
+      "reports_to": "Juan Martinez",
+      "image": "",
+      "email":"omanriquez@prosolutiongroup.com"
+    },
+    {
+      "id": 11,
+      "name": "Sterling Endsley",
+      "role": "Field Adjustment Specialists",
+      "department": "Field Operations",
+      "reports_to": "Juan Martinez",
+      "image": "juan-martinez.jpeg",
+      "email":"sendsley@prosolutiongroup.com"
+    },
+    {
+      "id": 12,
+      "name": "David Scott Eggleston Jr",
+      "role": "Field Adjustment Specialists",
+      "department": "Field Operations",
+      "reports_to": "Juan Martinez",
+      "image": "",
+      "email":"deggleston@prosolutiongroup.com"
+    },
+    {
+      "id": 13,
+      "name": "Jared Neal",
+      "role": "Field Adjustment Specialists",
+      "department": "Field Operations",
+      "reports_to": "Juan Martinez",
+      "image": "",
+      "email":"jneal@prosolutiongroup.com"
+    },
+    {
+      "id": 14,
+      "name": "Cedric Ledet",
+      "role": "Field Adjustment Specialists",
+      "department": "Field Operations",
+      "reports_to": "Juan Martinez",
+      "image": "",
+      "email":"cledet@prosolutiongroup.com"
+    },
+    {
+      "id": 15,
+      "name": "Ruben Rangel",
+      "role": "Field Adjustment Specialists",
+      "department": "Field Operations",
+      "reports_to": "Juan Martinez",
+      "image": "",
+      "email":"rrangel@prosolutiongroup.com"
+    },
+    {
+      "id": 16,
+      "name": "Damani Anderson",
+      "role": "Manager of Field Support Technicians (Runners)",
+      "department": "Field Operations",
+      "reports_to": "Daniel Smith",
+      "image": "",
+      "email":"danderson@prosolutiongroup.com"
+    },
+    {
+      "id": 17,
+      "name": "William Hall",
+      "role": "Quality Assurance Specialist",
+      "department": "Engineering",
+      "reports_to": "Daniel Rodriguez",
+      "image": "",
+      "email":"test@gmail.com"
+    },
+    {
+      "id": 18,
+      "name": "Ava Carter",
+      "role": "Technical Writer",
+      "department": "Engineering",
+      "reports_to": "Daniel Rodriguez",
+      "image": "",
+      "email":"test@gmail.com"
+    },
+    {
+      "id": 19,
+      "name": "Joseph Ward",
+      "role": "Customer Success Manager",
+      "department": "Customer Support",
+      "reports_to": "Sarah Turner",
+      "image": "",
+      "email":"test@gmail.com"
+    },
+    {
+      "id": 20,
+      "name": "Nora Moore",
+      "role": "Data Scientist",
+      "department": "Analytics",
+      "reports_to": "David Lee",
+      "image": ""
+    }
+  ]
+}

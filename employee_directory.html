@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Employee Directory</title>
+    <link rel="stylesheet" href="./styles/employee_directory.css" />
+    <script src="./scripts/employee_directory.js" defer></script>
+  </head>
+  <body>
+    <!-- <header>
+      <h1>Employee Directory</h1>
+    </header> -->
+    <main>
+      <section id="filters">
+        <label for="departmentFilter">Filter by Department:</label>
+        <select id="departmentFilter" onchange="filterEmployees();searchEmployees()">
+          <option value="all">All Departments</option>
+          <option value="field operations">Sales Department Field Operations</option>
+          <option value="marketing">Marketing</option>
+          <option value="sales">Sales</option>
+          <option value="finance">Finance</option>
+          <!-- Add more options for other departments -->
+        </select>
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Search by name..."
+          oninput="searchEmployees()"
+        />
+      </section>
+      <section id="employeeList">
+        <!-- Employee list will be dynamically added here -->
+        <ul id="result-header">
+          <li class="header">
+            <div class="header-cell">Picture</div>
+            <div class="header-cell">Name</div>
+            <div class="header-cell">Role</div>
+            <div class="header-cell">Department</div>
+            <div class="header-cell">Reports to</div>
+          </li>
+        </ul>
+        <ul id="employees">
+        </ul>
+      </section>
+      <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <div id="modal-content"></div>
+      </div>
+    </main>
+    <!-- JavaScript for filtering and searching employees -->
+  </body>
+</html>

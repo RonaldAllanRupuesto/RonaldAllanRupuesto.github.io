@@ -1,0 +1,26 @@
+/* responsive.css */
+
+/* Media Queries */
+@media only screen and (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+
+  .hero h2 {
+    font-size: 2.5em;
+  }
+
+  .product {
+    width: calc(50% - 20px);
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .hero h2 {
+    font-size: 2em;
+  }
+
+  .product {
+    width: calc(100% - 20px);
+  }
+}
