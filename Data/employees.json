@@ -22,7 +22,7 @@
       "id": 3,
       "name": "Kevin Kerman",
       "role": "Manager of CRM Developers",
-      "department": "",
+      "department": "CRM Developer",
       "reports_to": "Daniel Smith",
       "image": "",
       "email":"kkerman@prosolutiongroup.com"
@@ -30,8 +30,8 @@
     {
       "id": 4,
       "name": "Behzad Alam (VA)",
-      "role": "CRM developer Assistant",
-      "department": "",
+      "role": "CRM Senior developer",
+      "department": "CRM Developer",
       "reports_to": "Kevin Kerman",
       "image": "",
       "email":"balam@prosolutiongroup.com"
