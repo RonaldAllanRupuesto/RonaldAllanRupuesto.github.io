@@ -386,6 +386,69 @@
       "reports_to": "Kevin Kerman",
       "image": "maria-rino.jpg",
       "email":"mrino@prosolutiongroup.com"
+    },
+     {
+      "id": 44,
+      "name": "Meredith Chay",
+      "role": "Office and Account Manager",
+      "department": "Account Management",
+      "reports_to": "Kevin Kerman",
+      "image": "",
+      "email":"mchay@prosolutiongroup.com"
+    },
+     {
+      "id": 45,
+      "name": "Catherine Shadrake",
+      "role": "VP of Finance",
+      "department": "Finance",
+      "reports_to": "Daniel Smith",
+      "image": "",
+      "email":"cshadrake@prosolutiongroup.com"
+    },
+     {
+      "id": 46,
+      "name": "Michayla Crawford",
+      "role": "Accounts Receivables",
+      "department": "Finance",
+      "reports_to": "Catherine Shadrake",
+      "image": "michayla.jpg",
+      "email":"mcrawford@prosolutiongroup.com"
+    },
+     {
+      "id": 47,
+      "name": "Alana Cross",
+      "role": "Clerical Assistant",
+      "department": "Finance",
+      "reports_to": "Catherine Shadrake",
+      "image": "",
+      "email":"across@prosolutiongroup.com"
+    },
+     {
+      "id": 48,
+      "name": "Anjelyn Hernando (VA)",
+      "role": "Controller",
+      "department": "Finance",
+      "reports_to": "Catherine Shadrake",
+      "image": "",
+      "email":"ahernando@prosolutiongroup.com"
+    },
+     {
+      "id": 49,
+      "name": "Henry Manalo (VA)",
+      "role": "General Accountant",
+      "department": "Finance",
+      "reports_to": "Anjelyn Hernando (VA)",
+      "image": "",
+      "email":"hmanalo@prosolutiongroup.com"
+    },
+     {
+      "id": 50,
+      "name": "Rona Rupuesto (VA)",
+      "role": "Executive Assistant",
+      "department": "Finance",
+      "reports_to": "Catherine Shadrake",
+      "image": "",
+      "email":"rmickan@prosolutiongroup.com"
     }
   ]
 }
