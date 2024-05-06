@@ -13,8 +13,8 @@
       "id": 2,
       "name": "April Canolo",
       "role": "Front End Financials",
-      "department": "Finance",
-      "reports_to": "Heaven Canolo (VA)",
+      "department": "Adjusting Department",
+      "reports_to": "Tyler Riley",
       "image": "userphoto_2.jpg",
       "email":"acanolo@prosolutiongroup.com"
     },
@@ -146,38 +146,246 @@
     },
     {
       "id": 17,
-      "name": "William Hall",
-      "role": "Quality Assurance Specialist",
-      "department": "Engineering",
-      "reports_to": "Daniel Rodriguez",
+      "name": "Michael Woodard",
+      "role": "Field Support Technicians",
+      "department": "Field Operations",
+      "reports_to": "Damani Anderson",
       "image": "",
-      "email":"test@gmail.com"
+      "email":"mwoodard@prosolutiongroup.com"
     },
     {
       "id": 18,
-      "name": "Ava Carter",
-      "role": "Technical Writer",
-      "department": "Engineering",
-      "reports_to": "Daniel Rodriguez",
+      "name": "Jermere Williams",
+      "role": "Field Support Technicians",
+      "department": "Field Operations",
+      "reports_to": "Damani Anderson",
       "image": "",
-      "email":"test@gmail.com"
+      "email":"jwilliams@prosolutiongroup.com"
     },
     {
       "id": 19,
-      "name": "Joseph Ward",
-      "role": "Customer Success Manager",
-      "department": "Customer Support",
-      "reports_to": "Sarah Turner",
+      "name": "Brian Fitch",
+      "role": "VP of Operations",
+      "department": "Operations",
+      "reports_to": "Daniel Smith",
       "image": "",
-      "email":"test@gmail.com"
+      "email":"bfitch@prosolutiongroup.com"
     },
     {
       "id": 20,
-      "name": "Nora Moore",
-      "role": "Data Scientist",
-      "department": "Analytics",
-      "reports_to": "David Lee",
-      "image": ""
+      "name": "Madelyn Sica",
+      "role": "HR manager",
+      "department": "HR",
+      "reports_to": "Daniel Smith",
+      "image": "",
+      "email":"msica@prosolutiongroup.com"
+    },
+    {
+      "id": 21,
+      "name": "Tori Burton",
+      "role": "Adjusting Department Head",
+      "department": "Adjusting Department",
+      "reports_to": "Brian Fitch",
+      "image": "tori-burton.jpg",
+      "email":"tburton@prosolutiongroup.com"
+    },
+    {
+      "id": 22,
+      "name": "Marcos Ruiz",
+      "role": "Team Lead Adjuster",
+      "department": "Adjusting Department",
+      "reports_to": "Tori Burton",
+      "image": "",
+      "email":"mruiz@prosolutiongroup.com"
+    },
+    {
+      "id": 23,
+      "name": "Heaven Canolo (VA)",
+      "role": "Claim Specialist",
+      "department": "Adjusting Department",
+      "reports_to": "Marcos Ruiz",
+      "image": "heaven-canolo.jpg",
+      "email":"hcanolo@prosolutiongroup.com"
+    },
+    {
+      "id": 24,
+      "name": "Ed Leonard Torres (VA)",
+      "role": "Claim Estimator",
+      "department": "Adjusting Department",
+      "reports_to": "Marcos Ruiz",
+      "image": "ed-leonard.jpg",
+      "email":"edtorres@prosolutiongroup.com"
+    },
+    {
+      "id": 25,
+      "name": "Michael Perdon (VA)",
+      "role": "Data Collection Specialist",
+      "department": "Adjusting Department",
+      "reports_to": "Marcos Ruiz"
+      "image": "",
+      "email":"mperdon@prosolutiongroup.com"
+    },
+    {
+      "id": 26,
+      "name": "Tyler Riley",
+      "role": "Team Lead Adjuster",
+      "department": "Adjusting Department",
+      "reports_to": "Tori Burton",
+      "image": "",
+      "email":"triley@prosolutiongroup.com"
+    },
+    {
+      "id": 27,
+      "name": "Karla Paralejas (VA)",
+      "role": "Claim Specialist",
+      "department": "Adjusting Department",
+      "reports_to": "Tyler Riley",
+      "image": "karla-p.jpg",
+      "email":"kparalejas@prosolutiongroup.com"
+    },
+    {
+      "id": 28,
+      "name": "Jovianne Angela Valdez (VA)",
+      "role": "Claim Estimator",
+      "department": "Adjusting Department",
+      "reports_to": "Tyler Riley",
+      "image": "",
+      "email":"jvaldez@prosolutiongroup.com"
+    },
+    {
+      "id": 29,
+      "name": "Veronica Olalde",
+      "role": "Team Lead Adjuster",
+      "department": "Adjusting Department",
+      "reports_to": "Tori Burton",
+      "image": "veronica-ovalde.jpg",
+      "email":"volalde@prosolutiongroup.com"
+    },
+    {
+      "id": 30,
+      "name": "Rozel Dela Cruz (VA)",
+      "role": "Claim Specialist",
+      "department": "Adjusting Department",
+      "reports_to": "Veronica Olalde",
+      "image": "rozel-delacruz.jpg",
+      "email":"rcruz@prosolutiongroup.com"
+    },
+    {
+      "id": 31,
+      "name": "Felanie Ternio (VA)",
+      "role": "Claim Estimator",
+      "department": "Adjusting Department",
+      "reports_to": "Veronica Olalde",
+      "image": "",
+      "email":"fternio@prosolutiongroup.com"
+    },
+    {
+      "id": 32,
+      "name": "Kelly Mangonon (VA)",
+      "role": "Data Collection Specialist",
+      "department": "Adjusting Department",
+      "reports_to": "Veronica Olalde",
+      "image": "kelly-mangonon.jpg",
+      "email":"kmangonon@prosolutiongroup.com"
+    },
+    {
+      "id": 33,
+      "name": "Celine Libanan (VA)",
+      "role": "Account Manager",
+      "department": "Account Management",
+      "reports_to": "Kevin Kerman",
+      "image": "celine.jpg",
+      "email":"clibanan@prosolutiongroup.com"
+    },
+    {
+      "id": 34,
+      "name": "Betly Shika Maxilom (VA)",
+      "role": "Account Manager",
+      "department": "Account Management",
+      "reports_to": "Kevin Kerman",
+      "image": "betly.jpg",
+      "email":"bmaxilom@prosolutiongroup.com"
+    },
+    {
+      "id": 35,
+      "name": "Yasmine Rino (VA)",
+      "role": "Account Manager",
+      "department": "Account Management",
+      "reports_to": "Kevin Kerman",
+      "image": "yasmine.jpg",
+      "email":"yrino@prosolutiongroup.com"
+    },
+    {
+      "id": 36,
+      "name": "Yza Jaranilla (VA)",
+      "role": "Account Manager",
+      "department": "Account Management",
+      "reports_to": "Kevin Kerman",
+      "image": "",
+      "email":"yjaranilla@prosolutiongroup.com"
+    },
+    {
+      "id": 37,
+      "name": "Alex Becerra",
+      "role": "Account Manager",
+      "department": "Account Management",
+      "reports_to": "Kevin Kerman",
+      "image": "",
+      "email":"abecerra@prosolutiongroup.com"
+    },
+    {
+      "id": 38,
+      "name": "Yani Rino (VA)",
+      "role": "Account Manager",
+      "department": "Account Management",
+      "reports_to": "Kevin Kerman",
+      "image": "yani-rino.jpg",
+      "email":"yanir@prosolutiongroup.com"
+    },
+    {
+      "id": 39,
+      "name": "Via Kim Bejo (VA)",
+      "role": "Account Manager",
+      "department": "Account Management",
+      "reports_to": "Kevin Kerman",
+      "image": "kim-bejo.jpg",
+      "email":"kimbejo@prosolutiongroup.com"
+    },
+    {
+      "id": 40,
+      "name": "Irah Estrada (VA)",
+      "role": "Account Manager",
+      "department": "Account Management",
+      "reports_to": "Kevin Kerman",
+      "image": "",
+      "email":"iestrada@prosolutiongroup.com"
+    },
+    {
+      "id": 41,
+      "name": "Terry Zabala (VA)",
+      "role": "Account Manager",
+      "department": "Account Management",
+      "reports_to": "Kevin Kerman",
+      "image": "",
+      "email":"tzabala@prosolutiongroup.com"
+    },
+    {
+      "id": 42,
+      "name": "Iana Taylor McCoy (VA)",
+      "role": "Account Manager",
+      "department": "Account Management",
+      "reports_to": "Kevin Kerman",
+      "image": "",
+      "email":"imccoy@prosolutiongroup.com"
+    },
+    {
+      "id": 43,
+      "name": "Maria Rino (VA)",
+      "role": "Account Manager",
+      "department": "Account Management",
+      "reports_to": "Kevin Kerman",
+      "image": "maria-rino.jpg",
+      "email":"mrino@prosolutiongroup.com"
     }
   ]
 }
