@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Kevin Kerman",
-      "role": "Manager of CRM Developers",
+      "role": "Manager of CRM Developers and Account Management Dept",
       "department": "CRM Developer",
       "reports_to": "Daniel Smith",
       "image": "",
