@@ -109,6 +109,7 @@ function filterEmployees() {
       return departmentFilter === 'all' || employee.department.toLowerCase() === departmentFilter;
   });
   displayEmployees(filteredEmployees);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 // Function to search employees based on name
