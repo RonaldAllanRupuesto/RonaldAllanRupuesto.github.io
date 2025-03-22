@@ -105,7 +105,7 @@
               message: document.getElementById("message").value
             };
             
-            fetch("YOUR_GOOGLE_APPS_SCRIPT_URL", {
+            fetch("https://script.google.com/macros/s/AKfycbxtEwhTvaBJFF8EG46qz_5x-U7fgp6HeanIVPKN-xQE1lrtktQKgMS14CYltJo2d3uC/exec", {
               method: "POST",
               body: JSON.stringify(formData),
               headers: { "Content-Type": "application/json" }
