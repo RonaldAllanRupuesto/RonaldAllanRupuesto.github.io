@@ -96,20 +96,23 @@
           </form>
           
           <script>
-          document.getElementById("myForm").addEventListener("submit", function(e) {
+            document.getElementById("myForm").addEventListener("submit", function(e) {
             e.preventDefault();
-            
+          
             var formData = {
               name: document.getElementById("name").value,
               email: document.getElementById("email").value,
               message: document.getElementById("message").value
             };
-            
+          
             fetch("https://script.google.com/macros/s/AKfycbx69xGzIxZYybfJcamQfs_xIKwQ-OmTKaBFaW7VQdT5GBjJf9Ukt3OTv0siP7AY8cff/exec", {
               method: "POST",
               body: JSON.stringify(formData),
               headers: { "Content-Type": "application/json" }
-            }).then(response => response.text()).then(data => alert(data));
+            })
+            .then(response => response.json())
+            .then(data => alert("Success! " + data.status))
+            .catch(error => alert("Error: " + error));
           });
           </script>
       </div>
